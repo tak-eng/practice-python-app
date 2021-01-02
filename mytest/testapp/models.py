@@ -1,5 +1,4 @@
 from django.db import models
-
 # Create your models here.
 class Seiyuu(models.Model):  # SeiyuuというTableを宣言する、頭文字が大文字が流儀
     """声優さんの一覧"""
